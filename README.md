@@ -1,6 +1,5 @@
 # Hi, I'm Manish 👋🏽
 
-👨🏻‍💻 Check out my [portfolio](https://www.vinnyhoward.dev/) to learn more about me.
 
 ## 🧰 Languages and Tools
 
